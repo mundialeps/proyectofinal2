@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Poppins:wght@400;500;600;700;800&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+    position: relative;
+}
+.logo{
+    height: 80px;
+    width: 200px;
+    position: absolute;
+}
+.encabezado{
+    background-color: white;
+    height: 100px;
+    width: 150pxx;
+    
+    
+}
+.menu{
+    margin-left: 300px;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 50px;
+}
+.menu a{
+    
+    text-transform: uppercase;
+    text-decoration: none;
+    color: rgb(12, 50, 243);
+    font-family: 'Oswald', sans-serif;
+}
+.submenu{
+
+    background-color: rgb(17, 192, 244);
+    
+}
+.menudos{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+}
+nav a{
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    
+}
+nav button{
+   text-transform: uppercase;
+}
+.dropdown-menu{
+    left: 500px;
+}
+.epsmenu{
+    color: black;
+}
+.carouselslide{
+    height: 100px;
+    width: 100px;
+}
+div img{
+    height: 400px;
+    width: 900px;
+}
+.lateral{
+    background-color:rgb(26, 3, 175);
+    height: 600px;
+    width: 600px;
+    position: absolute;
+}
+aside h2{
+    position: relative;
+    color: white;
+    align-items: center;
+    top: 100px;
+    left: 10px;
+}
+.rallita{
+    height: 5px;
+    width: 300px;
+    background-color: aqua;
+    left: 23px;
+    bottom: 30px;
+}
+.card{
+    top:200px;
+    left: 200px;
+    height: 380px;
+}
+.container{
+    right: 150px;
+    bottom: 80px;
+}
+
+
+.footer {
+    padding: 100px 0;
+    background-color: #6c757d;;
+    top: 99px;
+    
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.link h3 {
+    font-size: 18px;
+    color: #FFFFFF;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    justify-content: center;
+    left: 100px;
+   
+}
+
+.link a {
+    font-size: 16px;
+    color: #DCDCDC;
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    left: 70px;
+}
+ul{
+    list-style: none;
+}
+.marca{
+    height: 100px;
+    width: 200px;
+    right: 600px;
+    top: 180px;
+}
+.img{
+    height: 50px;
+    width: 50px;
+    right: 500px;
+    top: 200px;
+  
+}
+.img2{
+    height: 50px;
+    width: 50px;
+    right: 500px;
+    top: 200px;
+  
+}
+.img3{
+    height: 50px;
+    width: 50px;
+    right: 500px;
+    top: 200px;
+  
+}
+.img4{
+    height: 50px;
+    width: 50px;
+    right: 500px;
+    top: 200px;
+  
+}
+.img5{
+    height: 50px;
+    width: 50px;
+    right: 500px;
+    top: 200px;
+  
+}
+
+
